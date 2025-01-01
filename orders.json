@@ -1,0 +1,297 @@
+[{
+    "_id": {
+      "$oid": "6763f0604a454456141afcb2"
+    },
+    "order_code": "6763f0604a454456141afcb2",
+    "to_ward_code": "90767",
+    "to_district_id": 3695,
+    "cancelOrder": false,
+    "orderItems": [
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971d"
+        },
+        "name": "Nước Hoa Nữ Ajmal Vision",
+        "salePrice": 110000,
+        "image": "http://localhost:3000/images/nu3.webp",
+        "qty": "2"
+      },
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971f"
+        },
+        "name": "Marc Jacobs Daisy Dream",
+        "salePrice": 630000,
+        "image": "http://localhost:3000/images/nu1.webp",
+        "qty": "1"
+      },
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971b"
+        },
+        "name": "Nước Hoa Jolie Dion Blue 60ml",
+        "salePrice": 3000000,
+        "image": "http://localhost:3000/images/nu4.webp",
+        "qty": "1"
+      }
+    ],
+    "shippingAddress": {
+      "province": "Hồ Chí Minh",
+      "district": "Thành Phố Thủ Đức",
+      "ward": "Phường Bình Trưng Tây",
+      "detail": "110",
+      "name": "hiep123444",
+      "phone": "0333833938"
+    },
+    "paymentMethod": "payLater",
+    "totalPrice": 3850000,
+    "status": "shipping",
+    "name": "user",
+    "user": {
+      "$oid": "6762d9d2ed596f63ecedd09a"
+    },
+    "createdAt": {
+      "$date": "2024-12-19T10:07:28.719Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-19T10:07:44.050Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6763f0824a454456141afcd8"
+    },
+    "order_code": "6763f0824a454456141afcd8",
+    "to_ward_code": "220910",
+    "to_district_id": 2046,
+    "cancelOrder": false,
+    "orderItems": [
+      {
+        "_id": {
+          "$oid": "67113675ee2a418523659739"
+        },
+        "name": "Tommy Hilfiger Tommy Girl",
+        "salePrice": 11000000,
+        "image": "http://localhost:3000/images/nu6.webp",
+        "qty": "1"
+      }
+    ],
+    "shippingAddress": {
+      "province": "Hưng Yên",
+      "district": "Huyện Văn Lâm",
+      "ward": "Xã Trưng Trắc",
+      "detail": "kjhg",
+      "name": "admin1507",
+      "phone": "0333833938"
+    },
+    "paymentMethod": "payLater",
+    "totalPrice": 11000000,
+    "status": "shipping",
+    "name": "user",
+    "user": {
+      "$oid": "6762d9d2ed596f63ecedd09a"
+    },
+    "createdAt": {
+      "$date": "2024-12-19T10:08:02.425Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-20T04:33:36.498Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6765464db10eb2086ce7c1ab"
+    },
+    "order_code": "",
+    "to_ward_code": "80213",
+    "to_district_id": 2264,
+    "cancelOrder": false,
+    "orderItems": [
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971d"
+        },
+        "name": "Nước Hoa Nữ Ajmal Vision",
+        "salePrice": 110000,
+        "image": "http://localhost:3000/images/nu3.webp",
+        "qty": "2"
+      },
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365972b"
+        },
+        "name": "Acqua di Gio Eau de Parfum",
+        "salePrice": 2300000,
+        "image": "http://localhost:3000/images/leg4.webp",
+        "qty": "1"
+      },
+      {
+        "_id": {
+          "$oid": "67654479021b7afb1c1fd9a3"
+        },
+        "name": "Nước hoa Evoke for Women",
+        "salePrice": 680000,
+        "image": "https://bizweb.dktcdn.net/100/503/826/products/evoke-her-14ml-edp-min.png?v=1701160600970",
+        "qty": "1"
+      }
+    ],
+    "shippingAddress": {
+      "province": "Lào Cai",
+      "district": "Huyện Si Ma Cai",
+      "ward": "Xã Thào Chư Phìn",
+      "detail": "110",
+      "name": "nguyễn xuân trường ",
+      "phone": "0333833938"
+    },
+    "paymentMethod": "payLater",
+    "totalPrice": 3200000,
+    "status": "pendding",
+    "name": "Admin",
+    "user": {
+      "$oid": "671137af7028a585628bac3b"
+    },
+    "createdAt": {
+      "$date": "2024-12-20T10:26:21.804Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-20T10:26:21.804Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6765869b9b0f8e6b0c839f92"
+    },
+    "order_code": "6765869b9b0f8e6b0c839f92",
+    "to_ward_code": "90767",
+    "to_district_id": 3695,
+    "cancelOrder": false,
+    "orderItems": [
+      {
+        "_id": {
+          "$oid": "67113675ee2a418523659721"
+        },
+        "name": "Nước Hoa Nữ Ajmal Amaze",
+        "salePrice": 550000,
+        "image": "http://localhost:3000/images/nu2.webp",
+        "qty": "1"
+      },
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971b"
+        },
+        "name": "Nước Hoa Jolie Dion Blue 60ml",
+        "salePrice": 3000000,
+        "image": "http://localhost:3000/images/nu4.webp",
+        "qty": "1"
+      }
+    ],
+    "shippingAddress": {
+      "province": "Hồ Chí Minh",
+      "district": "Thành Phố Thủ Đức",
+      "ward": "Phường Bình Trưng Tây",
+      "detail": "110",
+      "name": "trâm",
+      "phone": "0333833938"
+    },
+    "paymentMethod": "payLater",
+    "totalPrice": 3550000,
+    "status": "shipping",
+    "name": "Admin",
+    "user": {
+      "$oid": "671137af7028a585628bac3b"
+    },
+    "createdAt": {
+      "$date": "2024-12-20T15:00:43.953Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-01T05:49:27.845Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6774d6a327347d2388e34891"
+    },
+    "order_code": "6774d6a327347d2388e34891",
+    "to_ward_code": "80916",
+    "to_district_id": 2171,
+    "cancelOrder": false,
+    "orderItems": [
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971f"
+        },
+        "name": "Marc Jacobs Daisy Dream",
+        "salePrice": 1850000,
+        "image": "http://localhost:3000/images/nu1.webp",
+        "qty": "1"
+      }
+    ],
+    "shippingAddress": {
+      "province": "Lào Cai",
+      "district": "Huyện Mường Khương",
+      "ward": "Xã Tung Chung Phố",
+      "detail": "110",
+      "name": "trrret",
+      "phone": "0987678"
+    },
+    "paymentMethod": "payLater",
+    "totalPrice": 1850000,
+    "status": "shipping",
+    "name": "Admin",
+    "user": {
+      "$oid": "671137af7028a585628bac3b"
+    },
+    "createdAt": {
+      "$date": "2025-01-01T05:46:11.718Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-01T05:49:29.416Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6774d6c527347d2388e3489f"
+    },
+    "order_code": "6774d6c527347d2388e3489f",
+    "to_ward_code": "90768",
+    "to_district_id": 3695,
+    "cancelOrder": false,
+    "orderItems": [
+      {
+        "_id": {
+          "$oid": "67113675ee2a41852365971d"
+        },
+        "name": "Nước Hoa Nữ Ajmal Vision",
+        "salePrice": 1100000,
+        "image": "http://localhost:3000/images/nu3.webp",
+        "qty": "1"
+      }
+    ],
+    "shippingAddress": {
+      "province": "Hồ Chí Minh",
+      "district": "Thành Phố Thủ Đức",
+      "ward": "Phường An Khánh",
+      "detail": "110",
+      "name": "ffff",
+      "phone": "0333833938"
+    },
+    "paymentMethod": "payOnline",
+    "totalPrice": 1100000,
+    "status": "shipping",
+    "name": "Admin",
+    "user": {
+      "$oid": "671137af7028a585628bac3b"
+    },
+    "createdAt": {
+      "$date": "2025-01-01T05:46:45.544Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-01T05:49:22.058Z"
+    },
+    "__v": 0
+  }]

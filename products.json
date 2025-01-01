@@ -1,0 +1,708 @@
+[{
+  "_id": {
+    "$oid": "67113675ee2a41852365971f"
+  },
+  "name": "Đồng Hồ Tissot - Nam T137.407.11.041.00",
+  "price": 1990000,
+  "salePrice": 1850000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam10.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659720"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    },
+    {
+      "_id": {
+        "$oid": "676b91218946b93930dab8ae"
+      },
+      "name": "Admin",
+      "star": 1,
+      "comment": "ffddfgdff",
+      "createdAt": {
+        "$date": "2024-12-25T04:59:13.262Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-25T04:59:13.262Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "676b911a8946b93930dab8ab"
+      },
+      "author": "Admin",
+      "isAdmin": true,
+      "content": "dfff",
+      "byUser": {
+        "$oid": "671137af7028a585628bac3b"
+      },
+      "replies": []
+    }
+  ],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-25T04:59:13.262Z"
+  },
+  "blog": ""
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659721"
+  },
+  "name": "ĐỒNG HỒ NAM Ajmal Amaze",
+  "price": 750000,
+  "salePrice": 550000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam9.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659722"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    },
+    {
+      "_id": {
+        "$oid": "6774d74a27347d2388e348b9"
+      },
+      "name": "Admin",
+      "star": 4,
+      "comment": "grgrg",
+      "createdAt": {
+        "$date": "2025-01-01T05:48:58.950Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-01T05:48:58.950Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "6774d74027347d2388e348b3"
+      },
+      "author": "Admin",
+      "isAdmin": true,
+      "content": "hiêpfdf\n",
+      "byUser": {
+        "$oid": "671137af7028a585628bac3b"
+      },
+      "replies": [
+        {
+          "_id": {
+            "$oid": "6774d74427347d2388e348b6"
+          },
+          "isAdmin": true,
+          "content": "tt",
+          "nameUser": "Admin"
+        }
+      ]
+    }
+  ],
+  "__v": 3,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T05:48:58.950Z"
+  },
+  "blog": ""
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a41852365971d"
+  },
+  "name": "ĐỒNG HỒ NAM Ajmal Vision",
+  "price": 2500000,
+  "salePrice": 1100000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam8.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365971e"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "6774ca7427347d2388e3485b"
+      },
+      "author": "Admin",
+      "isAdmin": true,
+      "content": "fff",
+      "byUser": {
+        "$oid": "671137af7028a585628bac3b"
+      },
+      "replies": []
+    }
+  ],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T04:54:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a41852365971b"
+  },
+  "name": "Đồng Hồ Casio - Nam AE-1200WHD-1AVDF",
+  "price": 3199000,
+  "salePrice": 3000000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam7.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365971c"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659723"
+  },
+  "name": "Đồng Hồ Seiko - Nam SSA367J1",
+  "price": 2000000,
+  "salePrice": 1830000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam6.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659724"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a41852365973d"
+  },
+  "name": "Đồng Hồ Carnival - Nam 8110G-VH-DD-N",
+  "price": 1749000,
+  "salePrice": 1500000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam6.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365973e"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a41852365973f"
+  },
+  "name": "Đồng Hồ Orient - Nam RA-AR0001S30B (RA-AR0001S10B)",
+  "price": 9928000,
+  "salePrice": 12410000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam5.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659740"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659741"
+  },
+  "name": "Đồng Hồ Tissot - Nam T086.408.22.036.00",
+  "price": 14800000,
+  "salePrice": 19000000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam4.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659742"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659729"
+  },
+  "name": "Đồng Hồ Orient - Nam RA-AA0B02R39B (RA-AA0B02R19B)",
+  "price": 6400000,
+  "salePrice": 8000000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam3.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365972a"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.929Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.929Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659737"
+  },
+  "name": "Đồng Hồ Olym Pianus - Nam OP990-45ADGS-GL-D",
+  "price": 6160000,
+  "salePrice": 8800000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam2.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659738"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a41852365973b"
+  },
+  "name": "Đồng Hồ Casio - Nam MTP-1374L-1AVDF",
+  "price": 1702000,
+  "salePrice": 2270000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam1.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365973c"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659743"
+  },
+  "name": "Đồng Hồ Seiko - Nam SSA367J1",
+  "price": 5000000,
+  "salePrice": 3000000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam11.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659744"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a41852365972b"
+  },
+  "name": "Đồng Hồ Seiko - Nam SUR213P1",
+  "price": 4690000,
+  "salePrice": 2300000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam15.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365972c"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.929Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T16:08:21.929Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67113675ee2a418523659739"
+  },
+  "name": "Đồng Hồ Carnival - Nam 8907G-VT-T",
+  "price": 11490000,
+  "salePrice": 11000000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam13.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a41852365973a"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    },
+    {
+      "_id": {
+        "$oid": "671b9fac21608139f0436587"
+      },
+      "name": "truong",
+      "star": 4,
+      "comment": "dc",
+      "createdAt": {
+        "$date": "2024-10-25T13:39:56.300Z"
+      },
+      "updatedAt": {
+        "$date": "2024-10-25T13:39:56.300Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "671b9f8121608139f0436580"
+      },
+      "author": "truong",
+      "isAdmin": false,
+      "content": "a",
+      "byUser": {
+        "$oid": "671b985e7a7b316388b54b5e"
+      },
+      "replies": []
+    },
+    {
+      "_id": {
+        "$oid": "67661f6d9f96e76200583b40"
+      },
+      "author": "Admin",
+      "isAdmin": true,
+      "content": "rrrrr",
+      "byUser": {
+        "$oid": "671137af7028a585628bac3b"
+      },
+      "replies": []
+    }
+  ],
+  "__v": 3,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-21T01:52:45.171Z"
+  },
+  "blog": "<p>C&oacute; bao giờ bạn tự hỏi một c&ocirc; g&aacute;i trẻ năng động v&agrave; độc lập sẽ được m&ugrave;i hương mi&ecirc;u tả như thế n&agrave;o? Nếu chưa th&igrave; h&atilde;y mở nắp Tommy Hilfiger Tommy Girl, c&ocirc; g&aacute;i sẽ tự hiện l&ecirc;n trong tưởng tượng của bạn với một m&ugrave;i hương thật đẹp.</p>\n<p>Tommy Girl kh&aacute; an to&agrave;n nhưng kh&ocirc;ng hề nh&agrave;m ch&aacute;n. Với hai tầng hương đầu mang c&aacute;i nhẹ nh&agrave;ng của hương hoa trắng, t&ocirc; điểm th&ecirc;m n&eacute;t tinh nghịch, tươi mới của cam chanh v&agrave; một ch&uacute;t thanh m&aacute;t của Bạc h&agrave;. Đến tầng hương cuối, c&aacute; t&iacute;nh của người chủ nh&acirc;n được m&ugrave;i hương khắc hoạ r&otilde; n&eacute;t hơn. Ấm &aacute;p, gợi cảm c&oacute; lẽ l&agrave; hai từ th&iacute;ch hợp nhất để mi&ecirc;u tả đối với m&agrave;n kết hợp của nh&oacute;m hương Hoa v&agrave; Gỗ.\"</p>\n<p>Tommy Hilfiger Tommy Girl đ&iacute;ch thị l&agrave; chai nước hoa d&agrave;nh cho những c&ocirc; n&agrave;ng y&ecirc;u vận động. Bởi ch&iacute;nh bản th&acirc;n n&oacute; đ&atilde; tự toả ra một năng lượng đặc trưng của c&aacute;c n&agrave;ng ấy, đ&oacute; l&agrave; sự mạnh mẽ, bản lĩnh đầy ph&oacute;ng kho&aacute;ng.</p>"
+},
+{
+  "_id": {
+    "$oid": "67654479021b7afb1c1fd9a3"
+  },
+  "name": "Đồng Hồ Carnival - Nam 8907G-VT-T",
+  "price": 750000,
+  "salePrice": 680000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam14.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "67113675ee2a418523659720"
+      },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-17T16:08:21.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T06:51:00.526Z"
+  },
+  "blog": ""
+  
+},
+{
+  "_id": { "$oid": "67113675ee2a41852365972b" },
+  "name": "Đồng Hồ Seiko - Nam SUR213P1",
+  "price": 4690000,
+  "salePrice": 2300000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam15.webp",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": { "$oid": "67113675ee2a41852365972c" },
+      "name": "Hiệp",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": { "$date": "2024-10-17T16:08:21.929Z" },
+  "updatedAt": { "$date": "2024-10-17T16:08:21.929Z" }
+},
+{
+  "_id": { "$oid": "67113675ee2a41852365972d" },
+  "name": "Đồng Hồ Casio - Nam MTPV001L7B2UDF",
+  "price": 2790000,
+  "salePrice": 1800000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam16.webp",
+  "rating": 4,
+  "numReviews": 2,
+  "reviews": [
+    {
+      "_id": { "$oid": "67113675ee2a41852365972e" },
+      "name": "Thắng",
+      "star": 4,
+      "comment": "Tốt trong tầm giá"
+    },
+    {
+      "_id": { "$oid": "67113675ee2a41852365972f" },
+      "name": "Duy",
+      "star": 4,
+      "comment": "Hài lòng"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": { "$date": "2024-10-18T10:15:30.929Z" },
+  "updatedAt": { "$date": "2024-10-18T10:15:30.929Z" }
+},
+{
+  "_id": { "$oid": "67113675ee2a418523659730" },
+  "name": "Đồng Hồ Citizen - Nam BI1041-51L",
+  "price": 5990000,
+  "salePrice": 3200000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam17.webp",
+  "rating": 4.5,
+  "numReviews": 3,
+  "reviews": [
+    {
+      "_id": { "$oid": "67113675ee2a418523659731" },
+      "name": "Khánh",
+      "star": 5,
+      "comment": "Rất đẹp"
+    },
+    {
+      "_id": { "$oid": "67113675ee2a418523659732" },
+      "name": "Minh",
+      "star": 4,
+      "comment": "Đáng tiền"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": { "$date": "2024-10-18T12:45:10.929Z" },
+  "updatedAt": { "$date": "2024-10-18T12:45:10.929Z" }
+},
+{
+  "_id": { "$oid": "67113675ee2a418523659733" },
+  "name": "Đồng Hồ Orient - Nam RA-AA0C01B19B",
+  "price": 8890000,
+  "salePrice": 5500000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam18.webp",
+  "rating": 5,
+  "numReviews": 4,
+  "reviews": [
+    {
+      "_id": { "$oid": "67113675ee2a418523659734" },
+      "name": "Hùng",
+      "star": 5,
+      "comment": "Cực kỳ hài lòng"
+    },
+    {
+      "_id": { "$oid": "67113675ee2a418523659735" },
+      "name": "Tuấn",
+      "star": 5,
+      "comment": "Chất lượng tốt"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": { "$date": "2024-10-19T08:30:50.929Z" },
+  "updatedAt": { "$date": "2024-10-19T08:30:50.929Z" }
+},
+{
+  "_id": { "$oid": "67113675ee2a418523659736" },
+  "name": "Đồng Hồ Tissot - Nam T109.610.16.032.00",
+  "price": 12000000,
+  "salePrice": 9000000,
+  "type": "ĐỒNG HỒ NAM",
+  "image": "http://localhost:3000/images/donghonam19.webp",
+  "rating": 5,
+  "numReviews": 5,
+  "reviews": [
+    {
+      "_id": { "$oid": "67113675ee2a418523659737" },
+      "name": "Bảo",
+      "star": 5,
+      "comment": "Đẹp xuất sắc"
+    },
+    {
+      "_id": { "$oid": "67113675ee2a418523659738" },
+      "name": "Khoa",
+      "star": 5,
+      "comment": "Rất thích"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": { "$date": "2024-10-20T10:00:20.929Z" },
+  "updatedAt": { "$date": "2024-10-20T10:00:20.929Z" }
+}
+
+
+
+]

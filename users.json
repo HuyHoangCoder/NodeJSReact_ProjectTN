@@ -1,0 +1,52 @@
+[{
+    "_id": {
+      "$oid": "671137af7028a585628bac3b"
+    },
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "123",
+    "phone": "",
+    "isAdmin": true,
+    "createdAt": {
+      "$date": "2024-10-17T16:13:35.538Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-17T16:13:35.538Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6762d9d2ed596f63ecedd09a"
+    },
+    "name": "user",
+    "email": "user@gmail.com",
+    "password": "123",
+    "phone": "",
+    "isAdmin": false,
+    "createdAt": {
+      "$date": "2024-12-18T14:18:58.229Z"
+    },
+    "updatedAt": {
+      "$date": "2024-12-18T14:18:58.229Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6774d80827347d2388e34916"
+    },
+    "name": "qqq",
+    "email": "qwqwee@gmail.com",
+    "password": "123",
+    "address": "",
+    "phone": "",
+    "isAdmin": false,
+    "createdAt": {
+      "$date": "2025-01-01T05:52:08.478Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-01T05:52:08.478Z"
+    },
+    "__v": 0
+  }]
